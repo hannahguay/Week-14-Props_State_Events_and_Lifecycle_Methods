@@ -1,0 +1,19 @@
+{
+  "name": "week-14-props_state_events_and_lifecycle_methods",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hannahguay/Week-14-Props_State_Events_and_Lifecycle_Methods.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hannahguay/Week-14-Props_State_Events_and_Lifecycle_Methods/issues"
+  },
+  "homepage": "https://github.com/hannahguay/Week-14-Props_State_Events_and_Lifecycle_Methods#readme"
+}
